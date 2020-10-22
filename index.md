@@ -19,6 +19,7 @@ Harry Potter ist eine Kinder- und Jugendromanreihe der englischen Schriftsteller
 - Fred
 - George
 - Hagrid
+- Hedwig
 
 ## Zitat von Harry Potter
 
