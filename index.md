@@ -8,3 +8,5 @@ Harry Potter ist eine Kinder- und Jugendromanreihe der englischen Schriftsteller
 - abenteuerlustig 
 - Voldi
 - Ginny
+- Zaubere
+- Zauberer
