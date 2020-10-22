@@ -8,5 +8,8 @@ Harry Potter ist eine Kinder- und Jugendromanreihe der englischen Schriftsteller
 - abenteuerlustig 
 - Voldi
 - Ginny
-- Zaubere
 - Zauberer
+
+### Zitat von Harry Potter
+
+"Neugier ist keine Sünde, Harry, solange man sie mit Vorsicht walten lässt."
